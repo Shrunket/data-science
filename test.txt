@@ -2,4 +2,3 @@ trying to checkout github
 learning github from telusko channel on youtube
 learned how to create a file
 learned how to commit and edit saving the previous version
-github is shit
